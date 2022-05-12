@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @uzocious
-- 👀 I’m interested in DevOps Tools
+- 👀 I’m interested in new and exciting technologies.
 - 🌱 I’m currently working on Java Projects.
 
 <!---
